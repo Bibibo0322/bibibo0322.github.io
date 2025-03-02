@@ -2,7 +2,7 @@
 layout: home
 title: Bibibo's Homepage
 ---
-!(assets/images/頭像.png)
+!(assets/images/figure.png)
 # MAP
 ![map](assets/images/MAP.png)
 # FOOD
