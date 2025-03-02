@@ -2,7 +2,8 @@
 layout: home
 title: Bibibo's Homepage
 ---
+![頭像](images/頭像.png)
+# MAP
 
-# I'm Bibibo！
-Welcome to my web pages.
-![個人圖片]()
+# FOOD
+# SMILE
