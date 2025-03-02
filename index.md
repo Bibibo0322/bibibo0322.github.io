@@ -2,10 +2,10 @@
 layout: home
 title: Bibibo's Homepage
 ---
-!(images/頭像.png)
+!(assets/images/頭像.png)
 # MAP
 ![map](assets/images/MAP.png)
 # FOOD
-![FOOD](images/FOOD.png)
+![FOOD](assets/images/FOOD.png)
 # SMILE
-![SMILE](images/SMILE.png)
+![SMILE](assets/images/SMILE.png)
