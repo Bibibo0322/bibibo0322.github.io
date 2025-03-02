@@ -1,3 +1,4 @@
 title: "Bibibo Web"
+header_pages: []  # 防止 Jekyll 自動產生標題
 description: "life, researchs, projects"
 theme: minima
